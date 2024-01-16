@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![Events-List](https://github.com/PunithRajKumarM/NextJS-events-list/assets/146944110/fe18e004-a522-4e09-b9b8-6a3c6ef68af7)
 ![Event-details](https://github.com/PunithRajKumarM/NextJS-events-list/assets/146944110/14c62462-33ec-46af-a002-81fba6e27f01)
-![NextJS-Project](https://github.com/PunithRajKumarM/NextJS-events-list/assets/146944110/2d1ae357-704e-4a60-903d-f7cf4b80dbf7)
 ![Event-details (2)](https://github.com/PunithRajKumarM/NextJS-events-list/assets/146944110/da3e58d7-c9d9-4660-9aec-b0046d5d7b32)
+![NextJS-Project](https://github.com/PunithRajKumarM/NextJS-events-list/assets/146944110/2d1ae357-704e-4a60-903d-f7cf4b80dbf7)
 
 
 ## Getting Started
